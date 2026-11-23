@@ -1,0 +1,8 @@
+tag	date	who	effort	type	outcome	record
+WB-0004.001	2026-11-23	GPT-6 Astra	ChatGPT Pro mode	used and rechecked in this run	the proof read again in the run	https://github.com/KokunoYumeto/algebraic-groups-and-representations-workbench/blob/main/work/WB-0004/v1/CHECKS.md
+WB-0004.001	2026-11-23	Claude Opus 5.5	high	targeted proof check	every step confirmed	https://github.com/KokunoYumeto/algebraic-groups-and-representations-workbench/blob/main/work/WB-0004/v1/CHECKS.md
+WB-0004.001	2026-11-23	Claude Opus 5.5	max	targeted proof check	every step followed; no gap	https://github.com/KokunoYumeto/algebraic-groups-and-representations-workbench/blob/main/work/WB-0004/v1/CHECKS.md
+WB-0004.002	2026-11-23	Claude Opus 5.5	max	targeted proof check	every step followed; Stacks Tag 032Y read at the source; no gap	https://github.com/KokunoYumeto/algebraic-groups-and-representations-workbench/blob/main/work/WB-0004/v1/CHECKS.md
+WB-0004.003	2026-11-23	Claude Opus 5.5	max	carried as background without fault found	the deduction from Corollary 2 followed; Elliott's theorems used as recalled by Cahen-Fontana-Frisch-Glaz	https://github.com/KokunoYumeto/algebraic-groups-and-representations-workbench/blob/main/work/WB-0004/v1/CHECKS.md
+WB-0004.004	2026-11-23	Claude Opus 5.5	high	computation or formal certificate	exact series arithmetic on 400 random arguments (programs/check_examples.py)	https://github.com/KokunoYumeto/algebraic-groups-and-representations-workbench/blob/main/work/WB-0004/v1/CHECKS.md
+WB-0004.004	2026-11-23	Claude Opus 5.5	max	targeted proof check	both identities recomputed by hand	https://github.com/KokunoYumeto/algebraic-groups-and-representations-workbench/blob/main/work/WB-0004/v1/CHECKS.md

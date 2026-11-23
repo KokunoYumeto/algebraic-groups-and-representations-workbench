@@ -1,0 +1,14 @@
+key	citation	address	used	how_read
+Elliott2011a	J. Elliott, Integer-valued polynomial rings, t-closure, and associated primes, Comm. Algebra 39 (2011), 4128-4147	https://arxiv.org/abs/1105.0142	Conjectures 2.10, 2.15, 2.17; Propositions 2.13, 2.14, 2.16; Theorem 1.2	read at the locators (arXiv v1)
+Elliott2011b	J. Elliott, Presentations and module bases of integer-valued polynomial rings	https://arxiv.org/abs/1109.3921	p. 2 (the question recalled); Proposition 5.4, p. 16	read at the locators (arXiv v1)
+Elliott2016	J. Elliott, Integer-valued polynomials on commutative rings and modules	https://arxiv.org/abs/1608.00171	p. 2: non-free examples still conjectured	read at the locator (arXiv v1)
+CFFG2014	P.-J. Cahen, M. Fontana, S. Frisch and S. Glaz, Open problems in commutative ring theory, in Commutative Algebra, Springer, 2014, 353-375		Problems 19-21, pp. 9-10 of the authors' version	read at the locators
+Ma2026	H. Ma, A counterexample to Problem 19 on integer-valued polynomial rings	https://arxiv.org/abs/2604.05922	Theorem 1.1; Proposition 4.1; section 3	read at the locators (v2)
+JLSWXY2026	J. Jiang, Y. Li, Z. Sun, Y. Wang, L. Xiao and J. Yu, On some open problems in commutative algebra resolved by Rethlas	https://arxiv.org/abs/2605.25259	Theorem 3.4	read at the locator (v2)
+Kaplansky1958	I. Kaplansky, Projective modules, Ann. of Math. 68 (1958), 372-377		Theorem 2	standard result
+Milnor1971	J. Milnor, Introduction to Algebraic K-Theory, Ann. of Math. Stud. 72, Princeton, 1971		section 2, patching over a conductor square	standard result
+Bhargava1997	M. Bhargava, P-orderings and polynomial functions on arbitrary subsets of Dedekind rings, J. reine angew. Math. 490 (1997), 101-127		the regular basis from a pi-ordering	standard result
+AtiyahMacdonald1969	M. F. Atiyah and I. G. Macdonald, Introduction to Commutative Algebra, Addison-Wesley, 1969		Theorem 8.7; Propositions 10.13, 10.14	textbook locators
+Stacks032Y	The Stacks Project, Tag 032Y (Lemma 10.162.10)	https://stacks.math.columbia.edu/tag/032Y	part (4): finiteness of the integral closure of an analytically unramified local ring	read at the source
+Elliott2007	J. Elliott, Universal properties of integer-valued polynomial rings, J. Algebra 318 (2007), 68-92		Propositions 6.8(a), 6.10(d)	not opened; as recalled by CFFG2014 and Elliott2011b
+Elliott2010	J. Elliott, Birings and plethories of integer-valued polynomials, Actes des Rencontres du CIRM 2 (2010), no. 2		the biring structure	not opened; as recalled by CFFG2014

@@ -1,0 +1,9 @@
+{
+ "format": 1,
+ "name": "algebraic-groups-and-representations-workbench",
+ "title": "Algebraic groups and representations",
+ "scope": "Algebraic groups and Lie algebras, quadratic forms, lambda-rings, representation rings.",
+ "msc": "20G05; 20C30; 11E04; 13F35",
+ "index": "https://github.com/KokunoYumeto/mathematics-workbenches",
+ "licence": "CC0-1.0"
+}
