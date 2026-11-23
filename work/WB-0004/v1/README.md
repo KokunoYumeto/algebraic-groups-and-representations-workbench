@@ -1,6 +1,6 @@
 # Integer-valued polynomials over a one-dimensional analytically irreducible local domain form a free module: Elliott's non-flatness conjectures fail
 
-WB-0004, version 1, deposited on Hexagon on 23 November 2026.
+WB-0004, version 1: [hexagon:2611.00937](https://hexagonmath.org/2611.00937), deposited 23 November 2026.
 
 In 2011 J. Elliott conjectured that the ring Int(D) of integer-valued polynomials is not flat over F_2[[T^2,T^3]],
 nor over F_2 + T F_4[[T]], and that some local, Noetherian, one-dimensional, analytically irreducible domain has a

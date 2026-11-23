@@ -10,7 +10,7 @@ and his school.
 
 | Number | Work | State | Records |
 |---|---|---|---|
-| [WB-0004](https://github.com/KokunoYumeto/mathematics-workbenches/blob/main/works/WB-0004.md) | Integer-valued polynomials over a one-dimensional analytically irreducible local domain form a free module: Elliott's non-flatness conjectures fail | version 1, being deposited | [`work/WB-0004/v1`](work/WB-0004/v1/README.md) |
+| [WB-0004](https://github.com/KokunoYumeto/mathematics-workbenches/blob/main/works/WB-0004.md) | [Integer-valued polynomials over a one-dimensional analytically irreducible local domain form a free module: Elliott's non-flatness conjectures fail](https://hexagonmath.org/2611.00937) | deposited, version 1 | [`work/WB-0004/v1`](work/WB-0004/v1/README.md) |
 
 ## How this repository works
 
